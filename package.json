@@ -1,0 +1,24 @@
+{
+  "name": "caching-techniques",
+  "version": "1.0.0",
+  "description": "Different caching techniques/mechanisms implemented in node js application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hdonge/caching-techniques.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hdonge/caching-techniques/issues"
+  },
+  "homepage": "https://github.com/Hdonge/caching-techniques#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^3.0.2"
+  }
+}
